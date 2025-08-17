@@ -2,9 +2,9 @@ package lead
 
 import (
 	"github.com/Rajshri9579/go-fiber-crm-basic/database"
+	"github.com/gofiber/fiber"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
-	"github.com/gofiber/fiber"
 )
 
 type Lead struct{

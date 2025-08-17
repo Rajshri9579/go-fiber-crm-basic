@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/Rajshri9579/go-fiber-crm-basic/lead"
 	"github.com/Rajshri9579/go-fiber-crm-basic/database"
+	"github.com/Rajshri9579/go-fiber-crm-basic/lead"
 	"github.com/gofiber/fiber"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
